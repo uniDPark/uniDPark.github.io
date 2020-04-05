@@ -1,6 +1,5 @@
-title: 아쉬워서 남기는 코드
-subtitle: 프로그래밍 공부를 하면서 만들었던 결과물들이 관리 되지 않고 사라지는게 너무 아쉬워서 만든 블로그
-description:  u niD Park
+title: Regret for programming
+description:  remains for memory
 show_downloads: true
 email: eoy1313@gmail.com
 name: Daehyun Park
@@ -18,10 +17,9 @@ cayman-blog:
 
 
 # social
-author: lorepirri
+author: 
 image: /thumbnail-jumbo.png
-twitter:
-  username: lorepirri
+
 
 plugins:
   - jekyll-target-blank
@@ -29,4 +27,4 @@ plugins:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['now', 'about', 'contact']
+header_page_refs: ['about', 'posts', 'contact']
