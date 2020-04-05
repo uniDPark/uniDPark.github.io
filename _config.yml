@@ -1,9 +1,11 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
+title: 아쉬워서 남기는 코드
+subtitle: 프로그래밍 공부를 하면서 만들었던 결과물들이 관리 되지 않고 사라지는게 너무 아쉬워서 만든 블로그
+description:  'u niD Park'
 show_downloads: true
-
-baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://lorepirri.github.io" # change this to the base hostname & protocol for your site
+email: eoy1313@gmail.com
+name: Daehyun Park
+baseurl: '' # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://unidPark.github.io" # change this to the base hostname & protocol for your site
 
 
 google_analytics:
